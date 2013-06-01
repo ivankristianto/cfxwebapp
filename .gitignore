@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+.buildpath
+.project
+.settings
+nbproject/*
+*.log
+components
